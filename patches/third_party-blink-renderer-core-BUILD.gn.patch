@@ -1,0 +1,12 @@
+diff --git a/third_party/blink/renderer/core/BUILD.gn b/third_party/blink/renderer/core/BUILD.gn
+index 9cb087c578629d872d2a2c12a046471527372c81..bb60bde6620de9214a5df2d75a8bd0a983167ccc 100644
+--- a/third_party/blink/renderer/core/BUILD.gn
++++ b/third_party/blink/renderer/core/BUILD.gn
+@@ -430,6 +430,7 @@ component("core") {
+       "Carbon.framework",
+     ]
+   }
++  visibility += brave_blink_renderer_core_visibility public_deps += brave_blink_renderer_core_public_deps sources += brave_blink_renderer_core_sources deps += brave_blink_renderer_core_deps
+ }
+ 
+ # Certain sources should be compiled with heavy optimization enabled.

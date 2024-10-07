@@ -1,0 +1,12 @@
+diff --git a/ui/accessibility/platform/ax_platform_node_cocoa.mm b/ui/accessibility/platform/ax_platform_node_cocoa.mm
+index f5c231ecf9fdacfd6b7e009e5864cb827ca71a79..f32e2ae807cd3b21c4511d1b45647f3fa9cc0eda 100644
+--- a/ui/accessibility/platform/ax_platform_node_cocoa.mm
++++ b/ui/accessibility/platform/ax_platform_node_cocoa.mm
+@@ -2560,6 +2560,7 @@ void CollectAncestorRoles(
+   if (!_node)
+     return nil;
+ 
++  BRAVE_ACCESSIBILITY_ATTRIBUTED_STRING_FOR_RANGE
+   return [self AXAttributedStringForRange:[NSValue valueWithRange:range]];
+ }
+ 

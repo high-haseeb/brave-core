@@ -1,0 +1,13 @@
+diff --git a/components/content_settings/core/common/cookie_settings_base.h b/components/content_settings/core/common/cookie_settings_base.h
+index 89081590c50680e17c1ac03044854801440f1907..984649d5ec638650cae630fbb19664d539f0e302 100644
+--- a/components/content_settings/core/common/cookie_settings_base.h
++++ b/components/content_settings/core/common/cookie_settings_base.h
+@@ -76,7 +76,7 @@ class CookieSettingsBase {
+   CookieSettingsBase(const CookieSettingsBase&) = delete;
+   CookieSettingsBase& operator=(const CookieSettingsBase&) = delete;
+ 
+-  virtual ~CookieSettingsBase() = default;
++  virtual ~CookieSettingsBase();
+ 
+   // Enum for measuring the mechanism for re-enabling third-party cookies when
+   // applying 3PCD experiment. These values are persisted to logs. Entries

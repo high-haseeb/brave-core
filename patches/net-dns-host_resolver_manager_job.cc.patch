@@ -1,0 +1,12 @@
+diff --git a/net/dns/host_resolver_manager_job.cc b/net/dns/host_resolver_manager_job.cc
+index 9b94a3fb1a26a062e2fc4568031c8902e0944f44..60e12e87d45675a7405884cddd5c24e1034e70bb 100644
+--- a/net/dns/host_resolver_manager_job.cc
++++ b/net/dns/host_resolver_manager_job.cc
+@@ -1051,6 +1051,7 @@ void HostResolverManager::Job::CompleteRequests(
+   }
+ 
+   RecordJobHistograms(results, task_type);
++  BRAVE_RECORD_DNS_COUNTS
+ 
+   // Complete all of the requests that were attached to the job and
+   // detach them.

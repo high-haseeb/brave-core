@@ -1,0 +1,12 @@
+diff --git a/chrome/browser/ui/actions/chrome_action_id.h b/chrome/browser/ui/actions/chrome_action_id.h
+index b458fd71e79136f5850599ac2637011301088a8d..8c1667aeecabcefb6e225175af258374e98fbf62 100644
+--- a/chrome/browser/ui/actions/chrome_action_id.h
++++ b/chrome/browser/ui/actions/chrome_action_id.h
+@@ -541,6 +541,7 @@
+   /* Side Panel items */ \
+   E(kActionSidePanelShowAboutThisSite) \
+   E(kActionSidePanelShowAssistant) \
++  E(kActionSidePanelShowPlaylist) E(kActionSidePanelShowChatUI) \
+   E(kActionSidePanelShowBookmarks, IDC_SHOW_BOOKMARK_SIDE_PANEL) \
+   E(kActionSidePanelShowCustomizeChrome) \
+   E(kActionSidePanelShowFeed) \

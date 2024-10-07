@@ -1,0 +1,36 @@
+diff --git a/third_party/blink/renderer/platform/runtime_enabled_features.json5 b/third_party/blink/renderer/platform/runtime_enabled_features.json5
+index 72d0c25e9d70dc18a2684a0eabd65c8515e877d0..5baeeb72193ead05532a50b49cd7022ca4f6f41f 100644
+--- a/third_party/blink/renderer/platform/runtime_enabled_features.json5
++++ b/third_party/blink/renderer/platform/runtime_enabled_features.json5
+@@ -1902,6 +1902,7 @@
+       // In-development features for the File System Access API.
+       name: "FileSystemAccessAPIExperimental",
+       status: "experimental",
++      base_feature: "none",
+     },
+     {
+       // The FileSystemHandle.getCloudIdentifiers() method (see
+@@ -1917,6 +1918,7 @@
+       // Non-OPFS File System Access API.
+       name: "FileSystemAccessLocal",
+       status: {"Android": "test", "default": "stable"},
++      base_feature: "none",
+     },
+     {
+       name: "FileSystemAccessLockingScheme",
+@@ -2758,6 +2760,7 @@
+     {
+       name: "MiddleClickAutoscroll",
+       status: "test",
++      base_feature: "none",
+     },
+     {
+       name: "MobileLayoutTheme",
+@@ -3831,6 +3834,7 @@
+     {
+       name: "Serial",
+       status: {"Android": "", "default": "stable"},
++      base_feature: "none",
+     },
+     {
+       name: "SerializeViewTransitionStateInSPA",

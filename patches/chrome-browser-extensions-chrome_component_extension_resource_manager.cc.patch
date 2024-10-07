@@ -1,0 +1,12 @@
+diff --git a/chrome/browser/extensions/chrome_component_extension_resource_manager.cc b/chrome/browser/extensions/chrome_component_extension_resource_manager.cc
+index 83fea62df6d7a70c09f433d7d967920860971320..6fe094695314dc641665ddc19d7079719dbfcd7e 100644
+--- a/chrome/browser/extensions/chrome_component_extension_resource_manager.cc
++++ b/chrome/browser/extensions/chrome_component_extension_resource_manager.cc
+@@ -165,6 +165,7 @@ ChromeComponentExtensionResourceManager::Data::Data() {
+         std::move(pdf_viewer_replacements);
+   }
+ #endif
++  BRAVE_CHROME_COMPONENT_EXTENSION_RESOURCE_MANAGER_DATA_DATA
+ }
+ 
+ void ChromeComponentExtensionResourceManager::Data::AddComponentResourceEntries(

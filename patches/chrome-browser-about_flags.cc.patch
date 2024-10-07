@@ -1,0 +1,12 @@
+diff --git a/chrome/browser/about_flags.cc b/chrome/browser/about_flags.cc
+index 9d0181f447a1a8ef2af87164f17a7f761f1c8ce2..dc8a2865e178b9f76bb08eea01cd55b7a59df4d5 100644
+--- a/chrome/browser/about_flags.cc
++++ b/chrome/browser/about_flags.cc
+@@ -4216,6 +4216,7 @@ const FeatureEntry::FeatureVariation
+ //
+ // When adding a new choice, add it to the end of the list.
+ const FeatureEntry kFeatureEntries[] = {
++    BRAVE_ABOUT_FLAGS_FEATURE_ENTRIES
+ // Include generated flags for flag unexpiry; see //docs/flag_expiry.md and
+ // //tools/flags/generate_unexpire_flags.py.
+ #include "build/chromeos_buildflags.h"

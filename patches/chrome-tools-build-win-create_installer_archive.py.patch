@@ -1,0 +1,20 @@
+diff --git a/chrome/tools/build/win/create_installer_archive.py b/chrome/tools/build/win/create_installer_archive.py
+index cc88fc2e9b2ff6c4c7d5df9797334948200668b3..fd5ee81de9636a7ad4f92000e81c845b2b826cb3 100755
+--- a/chrome/tools/build/win/create_installer_archive.py
++++ b/chrome/tools/build/win/create_installer_archive.py
+@@ -787,6 +787,7 @@ def _ParseOptions():
+                       action='store_true',
+                       dest='verbose',
+                       default=False)
++    parser.add_option('--skip_signing', action='store_true', default=False)
+ 
+     options, _ = parser.parse_args()
+     if not options.build_dir:
+@@ -817,6 +818,7 @@ def _ParseOptions():
+ 
+     return options
+ 
++from brave_chromium_utils import inline_chromium_src_override; inline_chromium_src_override(globals(), locals())
+ 
+ if '__main__' == __name__:
+     options = _ParseOptions()

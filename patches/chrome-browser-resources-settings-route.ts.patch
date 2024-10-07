@@ -1,0 +1,20 @@
+diff --git a/chrome/browser/resources/settings/route.ts b/chrome/browser/resources/settings/route.ts
+index 1fd02a8f6dc3bb7ec9bfe873411152b2a31da910..db430ec914e04d9e7824c9aa579ac59f92538607 100644
+--- a/chrome/browser/resources/settings/route.ts
++++ b/chrome/browser/resources/settings/route.ts
+@@ -9,6 +9,7 @@ import {pageVisibility} from './page_visibility.js';
+ import type {SettingsRoutes} from './router.js';
+ import {Route, Router} from './router.js';
+ 
++import addBraveRoutes from './brave_routes.js'
+ /**
+  * Add all of the child routes that originate from the privacy route,
+  * regardless of whether the privacy section under basic or advanced.
+@@ -307,6 +308,7 @@ function createRoutes(): SettingsRoutes {
+     }
+     // </if>
+   }
++  addBraveRoutes(r);
+   return r as unknown as SettingsRoutes;
+ }
+ 

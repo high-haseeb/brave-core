@@ -1,0 +1,12 @@
+diff --git a/components/sync/engine/sync_scheduler_impl.cc b/components/sync/engine/sync_scheduler_impl.cc
+index 4b277f769a8555e628839df4faf916a45f5b034b..d1de27bc968de785f7efa12495b41e151c0e7e36 100644
+--- a/components/sync/engine/sync_scheduler_impl.cc
++++ b/components/sync/engine/sync_scheduler_impl.cc
+@@ -475,6 +475,7 @@ void SyncSchedulerImpl::HandleFailure(
+     SDVLOG(2) << "Sync cycle failed.  Will back off for "
+               << wait_interval_->length.InMilliseconds() << "ms.";
+   }
++  BRAVE_SYNC_SCHEDULER_IMPL_HANDLE_FAILURE
+ }
+ 
+ void SyncSchedulerImpl::DoPollSyncCycleJob() {

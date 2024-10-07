@@ -1,0 +1,12 @@
+diff --git a/chrome/browser/resources/history/history.ts b/chrome/browser/resources/history/history.ts
+index 90cac9ef363267c6395156dec1022a3a3f617d74..d06ba2c923390e7e32b28787c806bbf4fce6ef75 100644
+--- a/chrome/browser/resources/history/history.ts
++++ b/chrome/browser/resources/history/history.ts
+@@ -2,6 +2,7 @@
+ // Use of this source code is governed by a BSD-style license that can be
+ // found in the LICENSE file.
+ 
++import './brave_overrides/index.js';
+ import './app.js';
+ 
+ export {BrowserProxyImpl as ShoppingBrowserProxyImpl} from 'chrome://resources/cr_components/commerce/browser_proxy.js';

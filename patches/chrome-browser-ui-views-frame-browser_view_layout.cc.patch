@@ -1,0 +1,12 @@
+diff --git a/chrome/browser/ui/views/frame/browser_view_layout.cc b/chrome/browser/ui/views/frame/browser_view_layout.cc
+index 80dcf5b08c67c34b1932da03459e6311393f257c..77917a39bc0546d09c64b8a033074bd1ff620060 100644
+--- a/chrome/browser/ui/views/frame/browser_view_layout.cc
++++ b/chrome/browser/ui/views/frame/browser_view_layout.cc
+@@ -73,6 +73,7 @@ bool ConvertedHitTest(views::View* src, views::View* dst, gfx::Point* point) {
+   DCHECK(src);
+   DCHECK(dst);
+   DCHECK(point);
++  BRAVE_BROWSER_VIEW_LAYOUT_CONVERTED_HIT_TEST
+   views::View::ConvertPointToTarget(src, dst, point);
+   return dst->HitTestPoint(*point);
+ }
