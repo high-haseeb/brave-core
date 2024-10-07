@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"f07cab0596eb254be2c0cde59e688b85dbe7a879aa068dfb1b2c9cc91e96dcdc","appliesTo":[{"path":"components/content_settings/core/common/cookie_settings_base.cc","checksum":"4090cff6ffb2a351c6f65ef3b29614c45024f05bd0b401d110bab3708ee7b7fa"}]}

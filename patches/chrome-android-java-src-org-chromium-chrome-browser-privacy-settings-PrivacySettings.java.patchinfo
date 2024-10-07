@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"52f55ab1bf1ef56b231a8edcd18b5b156e6ce81fc99abe3bf94b83b32d302e4a","appliesTo":[{"path":"chrome/android/java/src/org/chromium/chrome/browser/privacy/settings/PrivacySettings.java","checksum":"14fafc3567c20f07d664a35d20d74679c4479795f67ed02105aa707d976e05b1"}]}

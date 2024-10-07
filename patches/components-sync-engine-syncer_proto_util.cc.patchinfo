@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"23648f81b7ea841826ded50658bba6eeb70f669b9090b323c29648d56045a5ee","appliesTo":[{"path":"components/sync/engine/syncer_proto_util.cc","checksum":"5e858ebaed546c23ede2a45b8a95a7c5a913ae6f327d600f1a98888184c2c2ae"}]}

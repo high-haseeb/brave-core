@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"9e0ae710edd087405a4d79c8a87d9ed90e1df82d29eaa16881a8b3f686bae6a7","appliesTo":[{"path":"components/signin/internal/identity_manager/BUILD.gn","checksum":"f3405f410743239cebcece6bd8226daa4e57baf56bc55491e8fd69c1bd87b69b"}]}

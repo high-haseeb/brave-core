@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"6e6c8475c7e18327db2afa1804333a1fd2894e276286edcac99524335187a0bb","appliesTo":[{"path":"services/network/cors/cors_url_loader.cc","checksum":"505f134a5b8ebc244184f9c11f7b3a3c4eb1793c5e27a56056ecb7e106989bc3"}]}

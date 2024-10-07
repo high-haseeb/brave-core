@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"1a971a61f74d315b8f2e2cbec565481546673922592f27f063deed16ae7532e9","appliesTo":[{"path":"net/socket/socks_connect_job.cc","checksum":"8a0fefa39fde64a7397fe760d2868bef9f86adb7a729e219b44ebe5a28984e3e"}]}

@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"8817419fb787a073d80be07b122b2caa384b3deede0b6835cd33b9538967bbd0","appliesTo":[{"path":"chrome/browser/shell_integration_linux.cc","checksum":"b3463d77443f1b05565b5534bef0125c486f0dbec6c132796564d7235fa1b55a"}]}

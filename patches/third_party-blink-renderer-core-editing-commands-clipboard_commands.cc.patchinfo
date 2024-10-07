@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"1ff1c8eaf08381214825a384a8bd80478f1a17336865fffc83c655ead48ef15f","appliesTo":[{"path":"third_party/blink/renderer/core/editing/commands/clipboard_commands.cc","checksum":"640fd6cb41f430d20d730db9495e2de22410db3db3dc5c5a86ec18485e817102"}]}

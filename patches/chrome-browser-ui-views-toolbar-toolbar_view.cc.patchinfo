@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"47221dc2891b2aa5b741f53ea4eb4d2946e04cfa1fb0b048e7ad3652c997204b","appliesTo":[{"path":"chrome/browser/ui/views/toolbar/toolbar_view.cc","checksum":"d608ba5063da284a68d66e9ba4850883ed5ffa8347679443dead05c876acf767"}]}

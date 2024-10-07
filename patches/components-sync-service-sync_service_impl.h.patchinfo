@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"e4c6258adfc96218b954319896299c2c7d82c9fb07b5339d98b08d542405de10","appliesTo":[{"path":"components/sync/service/sync_service_impl.h","checksum":"d3a7798c7f1fb78afcac39772f7e278bd19ec6f62dfe18d1f45e9af285b1b1b4"}]}

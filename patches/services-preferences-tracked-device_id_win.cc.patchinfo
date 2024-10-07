@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"7cee398eaf61d347eca245f2c012b4e97c7ed8e51843746e096eec741feb13ec","appliesTo":[{"path":"services/preferences/tracked/device_id_win.cc","checksum":"9b466cd7f01a3cb839d909cf89304e43d479ecbe86c2c36f78571e026a8587d1"}]}

@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"4f48c0e732574e2e0e9ae2db9eecd95b387f5db28b0a843b1f42f768feb0cf06","appliesTo":[{"path":"components/safe_browsing/core/common/safe_browsing_prefs.cc","checksum":"31c4fad19d4a5a32027b94b8a8d08b21ac89d5077cc5d61f43d000ab114df283"}]}

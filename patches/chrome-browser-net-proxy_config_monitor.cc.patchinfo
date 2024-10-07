@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"2275c453a9d795f4c84b66d492fc3bec8d579c814f0032fc283d53049e14a917","appliesTo":[{"path":"chrome/browser/net/proxy_config_monitor.cc","checksum":"495d040b5687241f3fb5c9def5496370509d57136f124a384f974959fc29307f"}]}

@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"b8d15a698d95a3e44dee00bf229cbffd65562eef7a9c950c649aace236c5f5cf","appliesTo":[{"path":"third_party/blink/renderer/core/html/media/autoplay_policy.cc","checksum":"067bf365e80301797a5cd969f85ebd4623b1821ce76aa4529564131e7c616661"}]}

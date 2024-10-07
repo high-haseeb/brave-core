@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"d1ea9279603f0b4ca8d2aed07a73721b0cdd8d79b0ca20b1fb9c972e5ecd1354","appliesTo":[{"path":"content/browser/gpu/gpu_internals_ui.cc","checksum":"0a7ae01a4bdb5385060735e2173e8d0f2f998859233a8efc5eabcdd1cf43813c"}]}

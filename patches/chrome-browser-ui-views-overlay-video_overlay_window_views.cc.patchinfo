@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"1fd932a8f21307d4a84dddd931445d30bda2886da37ece0f01a44da2d01bde3d","appliesTo":[{"path":"chrome/browser/ui/views/overlay/video_overlay_window_views.cc","checksum":"7d285ecfd883ae2a399a21fb36a6b38714cde22756e04c9afb105d7361342a1e"}]}

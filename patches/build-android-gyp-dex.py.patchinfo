@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"db68a26c81976ce87e3a4da0a7c0ee14a064bc7c80d0251a4afecb2b55814cf7","appliesTo":[{"path":"build/android/gyp/dex.py","checksum":"6ba0e2b6302e3879ec078697c0eb5d872f7f857ee21f3d0d5e7ccbfe0239f3fc"}]}

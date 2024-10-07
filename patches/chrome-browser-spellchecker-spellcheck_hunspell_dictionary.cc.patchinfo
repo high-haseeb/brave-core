@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"937bdbe5e2240f27eafb8b4511d205a46ff6c06267d4435bdb15e8ebbaec3ab6","appliesTo":[{"path":"chrome/browser/spellchecker/spellcheck_hunspell_dictionary.cc","checksum":"93ee421c0166e64122e9cff48db9ce7d63a2fdccecb5cfb6f52939604332383e"}]}

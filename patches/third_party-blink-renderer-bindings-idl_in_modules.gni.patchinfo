@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"cbb051bfc587a70a61b3afff56d5117a01986fe322a26b41a37f8f80d758c517","appliesTo":[{"path":"third_party/blink/renderer/bindings/idl_in_modules.gni","checksum":"f450e884711b5532eb77b87a841d68fbfaa3441692aa916a2e9108407d3bf6e1"}]}

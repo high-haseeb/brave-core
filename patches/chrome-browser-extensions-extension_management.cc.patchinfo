@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"8580395349d23d47ce20d5ed8de5cf374cec176f267c07ffa08f12bed3631c51","appliesTo":[{"path":"chrome/browser/extensions/extension_management.cc","checksum":"ae5520b7cf7e94ecb20540ba31e8b8d07d3befd9d0ae571bd770958c95a2739b"}]}

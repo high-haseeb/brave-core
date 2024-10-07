@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"82de9f53c640b156be3469eb9573479fe0fc70f1e8f7283a1e7b31cb98b493a9","appliesTo":[{"path":"components/browser_ui/site_settings/android/java/src/org/chromium/components/browser_ui/site_settings/SingleCategorySettings.java","checksum":"b6dee30475e7a080f15ad000e305978660cfd875b62800220ea58d9cf681509c"}]}

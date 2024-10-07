@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"c8f021f106f47c90c5ce02d5c89beacf696affaf8b952428ac2d1098d93698aa","appliesTo":[{"path":"chrome/browser/ui/views/location_bar/location_bar_view.cc","checksum":"f0563e49b03c520bbd204d1d0878c7663b1d9c1ddf9bbbed4f0e416ff3354bb3"}]}

@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"5ad6179af9ada901de3d215a6b1b0241e21fa664ab2b7ec7786d8e2286ece7bb","appliesTo":[{"path":"components/permissions/android/BUILD.gn","checksum":"ea5c56f33bb78e40b784872f8cf1fc8a83d240063a94c66a8203c3b688de978e"}]}

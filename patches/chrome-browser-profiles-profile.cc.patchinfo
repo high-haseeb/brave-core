@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"54c4113376dd50d53e460b8e53b36f23c718c0c85db3caee81b2376416e957ad","appliesTo":[{"path":"chrome/browser/profiles/profile.cc","checksum":"d34963a7164dabeb34eea7d5c484e49738b89bc4e6dea7fd495dc1ef9c91f72e"}]}

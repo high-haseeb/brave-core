@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"22c2106a374f2d9f0b35d510c4b1ffe2639f87bc42f1e270a9342f49f047f300","appliesTo":[{"path":"third_party/crashpad/crashpad/util/net/http_transport_win.cc","checksum":"5b149ac0c9efa86537b75069394bb62e757080604f29ef4de0c4e76fdf93c84b"}]}

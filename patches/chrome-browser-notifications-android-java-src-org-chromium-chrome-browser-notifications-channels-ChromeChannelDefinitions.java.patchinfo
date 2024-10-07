@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"222ffa630b16e92662e0bb78a2ae8d00759592de2d5b3e456632258aae0ded73","appliesTo":[{"path":"chrome/browser/notifications/android/java/src/org/chromium/chrome/browser/notifications/channels/ChromeChannelDefinitions.java","checksum":"fcd238fe30caa3bbe02372812edc67f615ed658c28dbf89b39df34e7e2281eb0"}]}

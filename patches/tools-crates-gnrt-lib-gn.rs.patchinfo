@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"b0215ef500bcba0e35a3f2b885207cde3f1fa12f7602971333c041b9e120f08f","appliesTo":[{"path":"tools/crates/gnrt/lib/gn.rs","checksum":"e5f4770af337cc393cfff31fc4bd35bbb79e59fdece25e5f15a53d720c64ad4c"}]}

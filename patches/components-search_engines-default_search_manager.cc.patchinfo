@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"7e5dc8edfc371a06e361937c5aa11d0eec81f98031d9fe478e3c27ed92223eaf","appliesTo":[{"path":"components/search_engines/default_search_manager.cc","checksum":"4b6f341e8e02aad21293e305d0d5aa7579d07cd0d6d2887f67c85ab87d82b019"}]}

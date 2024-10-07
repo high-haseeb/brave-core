@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"ee6646d4b24af03146563ec15fdd732e10e69e8218750316b13854461bf14b92","appliesTo":[{"path":"net/socket/socks5_client_socket.cc","checksum":"76bd13e2714e2cbbafa13647d632d646f8b9f93ce7ea113a5d03d8e1659ceb97"}]}

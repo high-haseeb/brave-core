@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"db499c4bf242a3eb1790ecdccc95b1b74bd52c730e06b2c01b386e3fe3c6d885","appliesTo":[{"path":"components/embedder_support/user_agent_utils.cc","checksum":"9505785e33b98211edcce3e2fcb37e791cdebd09d4b2f3c5121d928f4ba8a767"}]}

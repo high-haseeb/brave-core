@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"c7f2966bb373d1a7529de55c0a446a40715fd09e273c966208beaf30bffa04a9","appliesTo":[{"path":"chrome/browser/profile_resetter/reset_report_uploader.cc","checksum":"5e17fa67a43f886a297f5efc537e7941545f3eeb3bf4dc2ff77ffb5f6c95a35a"}]}

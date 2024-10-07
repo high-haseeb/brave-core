@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"baaa117c48cfe92c50c3e264332161e2f2f563374b3fec120fd8d1240e05f4a0","appliesTo":[{"path":"components/omnibox/browser/omnibox_edit_model.cc","checksum":"bb71dd7f76e7f1401936f2dbfbe5eac2ff8434bbfd507bce3d2373d1eb61ab9a"}]}

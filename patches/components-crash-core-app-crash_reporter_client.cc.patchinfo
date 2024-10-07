@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"8fbcfef523810129c4a3b67ff51d517fd30169c6b19c6767b84cf772f0c959fb","appliesTo":[{"path":"components/crash/core/app/crash_reporter_client.cc","checksum":"791d1dd311b0007408cbb04b20ab6700dd1c3e4ec047dc169086ef3192988ac9"}]}

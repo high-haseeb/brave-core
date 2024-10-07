@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"7e6c79e62a50203eea9865ea86e7a1a3428d3635897bbce2bf2a12a3bf767046","appliesTo":[{"path":"chrome/browser/ui/views/permissions/permission_prompt_bubble_base_view.cc","checksum":"9ecb0b68cdbdf0dd707e2f1b614ae1a46b18b257a7b4c565f3fbca41548518a6"}]}

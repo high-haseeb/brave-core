@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"d9c0d94c57ee61e9dc1a6588956b8c285c0cf3cc2204db325bfb12bacdd9a276","appliesTo":[{"path":"chrome/browser/ui/views/extensions/extensions_menu_main_page_view.cc","checksum":"b4b621d4cc8a96167be285959eb50a192fd129d363676650ac06e76da15b5e69"}]}

@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"77fafca31f4b0c11864d021188edb162b90053ef7b2ec023ded0c84550c9c14e","appliesTo":[{"path":"chrome/android/java/src/org/chromium/chrome/browser/notifications/NotificationPlatformBridge.java","checksum":"e29abcb6c92e09d7d6f86c7e94c81a342dc5202e19aefb5f9a5f69dcb0a7d6a2"}]}

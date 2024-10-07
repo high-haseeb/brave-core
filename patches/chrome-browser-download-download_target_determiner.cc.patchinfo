@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"07dcf95ddb6539915501c9fbc8b776da6d4026da8f701796abe7cafe493f8227","appliesTo":[{"path":"chrome/browser/download/download_target_determiner.cc","checksum":"2300344a8b205af2759001beffa7a12642744b5db432c7e873b37a9f2f3c538f"}]}

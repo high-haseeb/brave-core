@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"088539f574f71c2004106f042883f5da8ad94bbe644150ab4c6fc48573c93b25","appliesTo":[{"path":"content/app_shim_remote_cocoa/render_widget_host_view_cocoa.mm","checksum":"d80aca0a311023576b5fe09486ff39c3c5eb84554d3763dd4ff74348ed81d937"}]}

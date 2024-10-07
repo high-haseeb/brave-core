@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"ebb732eec595b81bdf60eaa4a26b37c3ada0e945629486eac4369882b89d9a81","appliesTo":[{"path":"chrome/android/java/src/org/chromium/chrome/browser/SwipeRefreshHandler.java","checksum":"e55253dcec0d3ad441804332456df937ebc9ec5e9ded775be3fef9b236f1cec2"}]}

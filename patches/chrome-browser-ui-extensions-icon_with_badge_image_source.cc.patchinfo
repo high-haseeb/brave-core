@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"480d01d75e2e9a8e98c82cb5050ce883c2104c6d3d62ff91f3f57d522c0fe928","appliesTo":[{"path":"chrome/browser/ui/extensions/icon_with_badge_image_source.cc","checksum":"0aea6e125b9b8d04e4fc744166b1db8038772d5c3d6150068bc2c42f4c75c5b0"}]}

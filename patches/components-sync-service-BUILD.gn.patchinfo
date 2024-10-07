@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"360bae5d7b92da41cf3d6903434b12825112d6ad2f02cc62d6b1c48856a09458","appliesTo":[{"path":"components/sync/service/BUILD.gn","checksum":"fab61f41de98210480b2448f3ba624a416298a7ef6c2a9e2902972e66caa8e3b"}]}

@@ -1,0 +1,44 @@
+<!doctype html>
+<head>
+<meta charset="utf-8">
+<style>
+.identicon {
+    display: inline-block;
+    width: 32px;
+    height: 32px;
+    margin: 16px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 50%;
+    transition: border-radius 2.5s;
+    transition-delay: 3s;
+  }
+
+.identicon:hover {
+    border-radius: 6.25%;
+    transition-delay: 1s;
+}
+html, body {
+  height: 100%;
+}
+</style>
+</head>
+<body id="body">
+  <div id="squareIcon" class="identicon"></div>
+  <div id="roundIcon" class="identicon"></div>
+    <!-- Main blockies -->
+
+    <script src="blockies.js"></script>
+
+    <!-- optional if you want rounded icons -->
+    <script type="text/javascript" src="hqx.js"></script>
+
+    <script>
+        var address = '0xfb6916095ca1df60bb79ce92ce3ea74c37c5d359';
+        var squareIcon = document.getElementById('squareIcon');
+        squareIcon.style.backgroundImage = 'url(' + blockies.create({ seed: address, size: 8, scale: 16}).toDataURL()+')'
+
+        var background = document.getElementById('body');
+        background.style.background = blockies.background({ seed: address });
+    </script>
+</body>

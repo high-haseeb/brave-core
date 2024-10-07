@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"47b1e8fdb3b0e3d40583e2d515870e113d1b7a75f1b14f89d41e29b7bce410f9","appliesTo":[{"path":"chrome/browser/storage_access_api/storage_access_grant_permission_context.cc","checksum":"756611417ba4ae77cf56a32888be426a83206cfab28576dfe485ced54022b82b"}]}

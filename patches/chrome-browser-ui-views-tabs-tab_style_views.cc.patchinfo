@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"ba1e9c242e8fb12677ff520f8c917414eee6244f04eded394a649552cfdd81e3","appliesTo":[{"path":"chrome/browser/ui/views/tabs/tab_style_views.cc","checksum":"aac6baccd1bed3c4d69713c9caa1f39a593442bf0ab84988246bbd7ecc958b17"}]}

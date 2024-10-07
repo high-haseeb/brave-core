@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"4f4891364cdf0ea53b680d2e2e0163c56eda10ac9c3d11b4cf5a6429512435c9","appliesTo":[{"path":"components/permissions/permission_manager.cc","checksum":"f0e050e63ae2dd6cee6b4dbf832536c6dcb96ad28fcef96d656d88f836786b64"}]}

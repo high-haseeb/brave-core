@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"bc976b132bc17474fce157a15f97c6ab1ecee687079871c53ec4ef9e1bfb83c0","appliesTo":[{"path":"chrome/installer/util/shell_util.cc","checksum":"5c4a4f80f9b4e010e88e84f5a7d87f58c7ba5d25b20fd38371d3084a161a811f"}]}

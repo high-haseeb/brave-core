@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"2bd708064ba7d75b438597be13bd9a152591be9c560b4aa063b317a0b726e107","appliesTo":[{"path":"components/permissions/permission_uma_util.cc","checksum":"daa73101d77bdb21e24a91403296b21e5b82f5c4ca85614e8ab0171b9a0fbd9c"}]}

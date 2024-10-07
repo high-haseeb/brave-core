@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"5fcfb88020f3e1bee4da0b3ddb6572b49702c5f83ae1eeb37b1216e44064af8a","appliesTo":[{"path":"third_party/blink/renderer/core/html/canvas/html_canvas_element.cc","checksum":"7fecce423c2cdaf31119c1f5761c4df654bf78b68421c0e766bc6411a7368451"}]}

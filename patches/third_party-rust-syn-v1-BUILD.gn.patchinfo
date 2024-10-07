@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"95dce8e96a0a9c55af6854a5fd226139cdc312fb18f91064ce9989555c161033","appliesTo":[{"path":"third_party/rust/syn/v1/BUILD.gn","checksum":"fb3f0b0083552aa39c95469f84241976bfd05ba0c76c6897fba663db5ba4701c"}]}

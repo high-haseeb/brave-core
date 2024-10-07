@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"2b7a531ee080cd2fd491bf9f4df5ab0f3d94f20f55f5eed0f58e9397088e7429","appliesTo":[{"path":"chrome/browser/extensions/chrome_component_extension_resource_manager.cc","checksum":"83b0594f19240d88571952e9e44337d17b8ca7d51068a97961fb84807a921eae"}]}

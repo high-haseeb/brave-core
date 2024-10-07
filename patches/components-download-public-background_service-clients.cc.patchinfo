@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"15207978b71b27c78d73e8f64a9f1d009bd1c4c460f0cb0ea97c520845ed2299","appliesTo":[{"path":"components/download/public/background_service/clients.cc","checksum":"5e9840dcf13b22c5cf133afcbdd9a7ba4749374f7e60f2c253aaf5c5270f697e"}]}

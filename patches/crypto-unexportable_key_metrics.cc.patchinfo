@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"5e4df162708b9aef792909403c4a6eaebf84ff2bcd292b710a42b731d20acd65","appliesTo":[{"path":"crypto/unexportable_key_metrics.cc","checksum":"334281accd136a5d4bb5c8508ab4bcf278df12427fcc8ad96355176ab80f1851"}]}

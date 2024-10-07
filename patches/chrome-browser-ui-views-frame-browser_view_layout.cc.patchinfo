@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"08a5e8c17e407e8d366e240ffa5a6fdd87f357a464c743d389381b456a3b6b95","appliesTo":[{"path":"chrome/browser/ui/views/frame/browser_view_layout.cc","checksum":"ae6e04849d1bab226ae3db8281bb59f106a2cd00a059ef6bf4d3c9b142e9a4f0"}]}

@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"8cb280d4fc8fc7d49e007695fcbfbf85a0657923cf1b7410bdd3c83ce9731eb8","appliesTo":[{"path":"chrome/browser/extensions/extension_tab_util.cc","checksum":"88a36b42a6ca76f5e2090935df203088b98ef50a1c5d48974bb22c6540c897a7"}]}

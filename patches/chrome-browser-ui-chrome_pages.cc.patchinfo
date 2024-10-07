@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"c6513eedb14dab010518a76a34c7f503d85cee6bd581370e80b43f06e6c353a5","appliesTo":[{"path":"chrome/browser/ui/chrome_pages.cc","checksum":"7a50114eb787b67d620fa42932ded92f3d2cb2a653bccb665a8267e6d8124785"}]}

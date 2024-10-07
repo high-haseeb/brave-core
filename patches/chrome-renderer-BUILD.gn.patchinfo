@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"96e80ec94d33f225683a633ffd701a08c607d3f4f28c364c717ac3c440e50097","appliesTo":[{"path":"chrome/renderer/BUILD.gn","checksum":"02e0bc07207cbac8211f0ec0a164c864bb31477299c04fe7e73d007992fb51eb"}]}

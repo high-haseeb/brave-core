@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"979508712ce152a843f29d2e87ca499f005a9f5cc94b95cb579ae30768dc9a8d","appliesTo":[{"path":"components/os_crypt/sync/key_storage_kwallet.cc","checksum":"82281af0a10165adbfb78f75116a538d489d3661399fc323b756cf6026f294cd"}]}

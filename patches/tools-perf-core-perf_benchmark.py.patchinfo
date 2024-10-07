@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"41bc98ec993d2053cb05c4249aff366120a5a1121aa61e5fa4f329198b87eab1","appliesTo":[{"path":"tools/perf/core/perf_benchmark.py","checksum":"c7afeca413c78c9feac8ef433bc2f9554b81ecfa7fdcaeff1f0f4661d6344b1a"}]}

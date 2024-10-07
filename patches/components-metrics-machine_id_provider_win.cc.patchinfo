@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"a5d0e03fbf1ab429780d8ba093ddf545777292f5142c609a296df62bc64d980a","appliesTo":[{"path":"components/metrics/machine_id_provider_win.cc","checksum":"3b28e8d0040ea1bc4655d8f9bdf21c4caf93758da356e2350b79c5efc0eb47b8"}]}

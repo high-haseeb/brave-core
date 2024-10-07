@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"37239e0ee034fba168a252409c7d20f00d2378422eb588213b7c0f1e11bc852e","appliesTo":[{"path":"base/metrics/histogram_functions.h","checksum":"bae226e01bbb17c7d2c7c0f96eca3c64c87393bdf71dd157bf8af9b754fdd379"}]}

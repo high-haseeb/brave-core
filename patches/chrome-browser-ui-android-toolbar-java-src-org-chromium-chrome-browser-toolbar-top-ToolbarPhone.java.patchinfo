@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"a4317ffe4645955b17152279074f02fe0294d092a573cd941bf3324d36b2cb79","appliesTo":[{"path":"chrome/browser/ui/android/toolbar/java/src/org/chromium/chrome/browser/toolbar/top/ToolbarPhone.java","checksum":"4fe279e414c96865e62418abf6ccac5c8c77f26950350e471236e6acf752176d"}]}

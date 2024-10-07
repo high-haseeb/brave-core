@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"ed60753a78706df1f8689f92ba31f9801b1441be3448e892e56d9415d6b13ae8","appliesTo":[{"path":"chrome/browser/android/browsing_data/browsing_data_bridge.cc","checksum":"13126385f7a108f6d38f19c7911b9a0408093f29cf08c573bd768b2ef988b5b9"}]}

@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"0a457579fe67fe03d94b78e452411302209916ebd6a6a1893bee3f2c4bbc222e","appliesTo":[{"path":"chrome/browser/sync/sync_service_factory.cc","checksum":"295de55864be690408c2384655de6a28af606387c06bd37085fed50474821bb1"}]}

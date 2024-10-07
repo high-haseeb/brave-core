@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"16fc49db1814a4baf09194ae40a9817020a0e46bd6940aa21fa6989c6c1fe427","appliesTo":[{"path":"services/network/cookie_manager.cc","checksum":"7036c124c8c3a28584fba837c3a95d507dc6822f15625c4a6620ce111cf0f7cd"}]}

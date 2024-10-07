@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"b7da384ad649c4c500028dd275fcb39be0a3cfad4e593cf99e58925058ddbc0c","appliesTo":[{"path":"tools/json_schema_compiler/feature_compiler.py","checksum":"6c2c9f0319377e14795d587d16e695cf86266637b6dc916c073b222bd4e26302"}]}

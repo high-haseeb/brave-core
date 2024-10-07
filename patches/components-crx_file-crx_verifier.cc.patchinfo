@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"fe51e39bb446b01c4adf3309270681f0040af1737a72253f085d935bec1705cb","appliesTo":[{"path":"components/crx_file/crx_verifier.cc","checksum":"be07738474768bb85c4aa4726459e5357200a018ab068177bca4631b6cae2c41"}]}

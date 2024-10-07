@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"28a7954a624242d8f6abc014b9c1b78b6d035c1bfe4b748c8c0ecb3651b541cd","appliesTo":[{"path":"services/network/public/cpp/BUILD.gn","checksum":"f2671224778dbec9684957919af7f880ea7d1c25960737534e3c42a97a204f74"}]}

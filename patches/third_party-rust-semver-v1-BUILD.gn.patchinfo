@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"9d247d2addeb1e4fba8b12f6e9fcf27425c46b4be80fcfbdcbee944da9717131","appliesTo":[{"path":"third_party/rust/semver/v1/BUILD.gn","checksum":"1f569c30079c548456b70d94e782b533c141ae0f1b1ccda5182bd70314ebd75e"}]}

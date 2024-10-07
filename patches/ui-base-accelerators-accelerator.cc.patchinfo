@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"d3deadccbc0c9fdb5e4d3a7e1a1d45dbb7432036fd8944bdb02605629d68a0b6","appliesTo":[{"path":"ui/base/accelerators/accelerator.cc","checksum":"975d95eaa97fbd640e669ed7ac25817e57b0f1f076255da7825b600b60be765a"}]}

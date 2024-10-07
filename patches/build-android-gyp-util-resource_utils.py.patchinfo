@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"897f305f830d26592afa836ce608ea59101d22a394ebdbb8007478867bf62c2f","appliesTo":[{"path":"build/android/gyp/util/resource_utils.py","checksum":"51e51f99f6fbeed7a8d00ff506f6ab73d8aaf715b510adebb5d21253853e0624"}]}

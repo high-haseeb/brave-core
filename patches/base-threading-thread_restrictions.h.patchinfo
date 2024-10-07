@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"f4d27a246141f9df0b3f2414c55975e3852c9110759d4aa794f2c526c1446545","appliesTo":[{"path":"base/threading/thread_restrictions.h","checksum":"7b4fceed579fa104af21560d2cdb1ed868c70dcf9f6665c9d3eaa1f9bf66ec41"}]}

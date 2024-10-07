@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"d5bbe81fb8fdf9b9f49bea39eab12301b8dd5aea92d4cf2e68e84024bdb41241","appliesTo":[{"path":"net/dns/host_resolver_manager_job.cc","checksum":"d0bbca101af5a33f7424c65c3facf3b9fa97515a0c2197eb0e1ac7c36a13e853"}]}

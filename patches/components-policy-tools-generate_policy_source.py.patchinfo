@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"c4eacad4199c73116c033433b079ccbdda41fa3ebffce2a2ae776688bf243e10","appliesTo":[{"path":"components/policy/tools/generate_policy_source.py","checksum":"dd96d993489a92c7d93cc7240e4c7f61077bf0bf1e30a780ee0c8971b625088d"}]}

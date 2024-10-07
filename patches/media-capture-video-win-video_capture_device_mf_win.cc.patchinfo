@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"7968b821686522612e1899df32c4f53a8dce0871c23ed6821523f36d7b4fee2a","appliesTo":[{"path":"media/capture/video/win/video_capture_device_mf_win.cc","checksum":"6b8a70dc46413ba2c765c7ef723277165206aa30a1c44c2c217e16d05a8ac59c"}]}

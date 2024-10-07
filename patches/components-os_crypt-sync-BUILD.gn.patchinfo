@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"c7e5260e64c515afd97050f7e665902ce91fd10a16e2787adbfb0e43ace6c455","appliesTo":[{"path":"components/os_crypt/sync/BUILD.gn","checksum":"95703f762219214885148b6d88a92002f3ab27f56c70fd5a081e6142a9b52e29"}]}

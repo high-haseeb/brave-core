@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"69181f4eef2dff665064e31b8971f268dc621bf103aa62c01c4591e3c94aebad","appliesTo":[{"path":"third_party/blink/renderer/bindings/scripts/bind_gen/interface.py","checksum":"0ab200f6b0eb551d5bcd634354f87db4117e16fc56ca881ed62ef1610b9d2b7d"}]}

@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"a13601a87eae654485921f0d785e74e10a608c4f8d9d2ede822b5fdd52c5885c","appliesTo":[{"path":"chrome/browser/ui/views/tabs/tab_strip.cc","checksum":"c0bea2ecf1694680948b30579fa9553a0ca2ab4e4a84d8704cd8dde613848272"}]}

@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"5de24dfb7b12aba361b304502b4715219214427cd665592a150f3ec0fe31d86a","appliesTo":[{"path":"chrome/browser/content_settings/page_specific_content_settings_delegate.cc","checksum":"9020108c235e9ea8ac2941d2e7e5d21860fbbfa3b05fbda9f093d0736a23822a"}]}

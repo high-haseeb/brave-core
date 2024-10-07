@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"343692345c61d30b5a07f3b6686449b082cfe27f143e1e2c86b8fc82910c27b2","appliesTo":[{"path":"base/trace_event/builtin_categories.h","checksum":"77cf5a12c839cc048165ae471a78f8e475343a3344810a37627c3cbe8e39fa2b"}]}

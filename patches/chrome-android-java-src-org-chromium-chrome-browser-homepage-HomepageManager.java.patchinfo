@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"0846027bff77bd15927e34e594154ee50728e55c1102b38432368b7c522f22cc","appliesTo":[{"path":"chrome/android/java/src/org/chromium/chrome/browser/homepage/HomepageManager.java","checksum":"ba4b12e91dfb5f65f9f6ec087380d809444f73b9557993e0b0009ddb930248c8"}]}

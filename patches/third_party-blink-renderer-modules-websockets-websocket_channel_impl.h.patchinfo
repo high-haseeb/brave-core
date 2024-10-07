@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"ceacd87a0c9d016c2837a9c7c9571922565693f4bf61afdac34d6cdcb13c0099","appliesTo":[{"path":"third_party/blink/renderer/modules/websockets/websocket_channel_impl.h","checksum":"7236a3c765994c6c17271f6d2e45b5a259aeb94dd0f69d500dc826ebb5f2bf7d"}]}

@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"b08035a524a626cf959d70207567e486cec648ab18528ae463b82546bdb64d16","appliesTo":[{"path":"third_party/blink/renderer/modules/canvas/offscreencanvas2d/offscreen_canvas_rendering_context_2d.idl","checksum":"de945b8704d971c7b809e1cae88ca5d6985ebe1bef3fcd658af84c1207919c76"}]}

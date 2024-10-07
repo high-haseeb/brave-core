@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"7bc3eb365dc50a7e56fc5c335ce489789c609819a84157d20efb3f4026fd15dd","appliesTo":[{"path":"chrome/browser/ui/views/translate/translate_bubble_view_unittest.cc","checksum":"697e7deb291a6fc737015a73dea57094ebe6391677005f514fabfd6b4fc57e1e"}]}

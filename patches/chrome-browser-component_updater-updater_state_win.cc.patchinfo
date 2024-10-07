@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"8991ec98e9eb3aff38b04f45dd3535cf884987e77983ea4163b2ad88b2072bb5","appliesTo":[{"path":"chrome/browser/component_updater/updater_state_win.cc","checksum":"8efcb64e5c8c637ed6034e4b9c7aafae9d94097c26d4e0ef2001e2c6d36ecf0f"}]}

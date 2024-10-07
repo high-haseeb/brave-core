@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"c3c38659306f4411bbeead6925f6de76247f4433a0df815a3eb526cfd5700c64","appliesTo":[{"path":"chrome/browser/safe_browsing/download_protection/check_client_download_request_base.cc","checksum":"de97ecaa5d8f373a609958689b8507a6a5d5e31b3efa03bda9b1715c43adb596"}]}

@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"b8c3edb49ca567ad6fd6050d0082256866a0b820a45452909eba8d72f412b642","appliesTo":[{"path":"third_party/blink/renderer/modules/canvas/canvas2d/base_rendering_context_2d.cc","checksum":"02035bb3bd32af2bf9a474c5191b136c09bd0f8b5079cfe878e394c515ce0917"}]}

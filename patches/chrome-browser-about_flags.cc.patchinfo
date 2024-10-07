@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"722bf3dbd443d206c6b5706823e748aad5e774508ba1694ab44a91d0327304f9","appliesTo":[{"path":"chrome/browser/about_flags.cc","checksum":"1f6cd10acb1fb7a1675b5c6e13775744946578fc264cdfe9bbb6add11a4d3a4f"}]}

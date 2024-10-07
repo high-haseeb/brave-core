@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"1a510bd0b437e07a383db7b6407d316825e9867ea0d1b355ab579a0be401d145","appliesTo":[{"path":"net/proxy_resolution/configured_proxy_resolution_service.cc","checksum":"61050efc2b33e004c1776ba0862e73a53783666220550c2e2c87ead2a833953f"}]}

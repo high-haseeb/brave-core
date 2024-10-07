@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"dcee1ca5801c537455404106e85c471b3449e660378c0fc0a3ef9c103376507b","appliesTo":[{"path":"content/browser/zygote_host/zygote_host_impl_linux.cc","checksum":"af91a0296f5ae27c6a755a1aa90a46d730f3a6fb29fff96110cb19d2b0757b27"}]}

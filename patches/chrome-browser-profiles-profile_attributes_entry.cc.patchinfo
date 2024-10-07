@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"d5cbd8de3f39372bcb4e8f1694e426ff3e07cfa677fbc2be234e4c534ba021d2","appliesTo":[{"path":"chrome/browser/profiles/profile_attributes_entry.cc","checksum":"0578dc289036edd38718d5cab9c445b762f268006686a22bc3a8930798c190c8"}]}

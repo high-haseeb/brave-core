@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"936ef4be9d5a138fefad7e49d9e9f4fcdd4effb8d2d5fe84e897c6baa4fec23e","appliesTo":[{"path":"content/browser/loader/reconnectable_url_loader_factory.cc","checksum":"042c0c5eeee0b5f333a4c5dd5764b6d49ea81247fde530887c743b8d910beca2"}]}

@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"671a2a5316a72ee8060165866bb55e3e6d7775d5bcc75b5aff062be29f1afe02","appliesTo":[{"path":"content/browser/renderer_host/navigation_controller_impl.cc","checksum":"85e13cfb7545205234adda986649bedf20b8a9bd5d3a09b9f9b54d614794345c"}]}

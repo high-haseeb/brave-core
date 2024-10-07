@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"21f8b042ad7eac42b88cacb23722fdbaa4e7cabf00f3b013fd5339e847e58174","appliesTo":[{"path":"tools/json_schema_compiler/idl_schema.py","checksum":"7c06b9ea21b6f9ba331508e5bc963644d08c8bc79dd4d0a4d0b4977f4cd70594"}]}

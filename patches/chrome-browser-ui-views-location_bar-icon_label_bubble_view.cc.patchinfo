@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"b7fff32f7f05d542d744caef297ef310f8d9fe29cef8c4a0c81e8cb277b4b312","appliesTo":[{"path":"chrome/browser/ui/views/location_bar/icon_label_bubble_view.cc","checksum":"8d803f1602df9762881f26d0ed5a46b3924776a5f3e13fa65d009b3ad4d975ff"}]}

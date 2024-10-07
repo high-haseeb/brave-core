@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"dc0a52031e0a0ddb827175bc6cffda5426afbbbc1a3b8a3bb5f541a663f47692","appliesTo":[{"path":"chrome/browser/signin/account_consistency_mode_manager.cc","checksum":"0ef47efc33f41cea33a942bd07710c2f2017e96cd84c41e04ec15df28cde75ea"}]}

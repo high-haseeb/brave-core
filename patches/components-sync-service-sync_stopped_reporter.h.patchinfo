@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"0abc74fd77aa895d4a14377eb0987f79bf00aa9ff6ea867435c7491c7d837b08","appliesTo":[{"path":"components/sync/service/sync_stopped_reporter.h","checksum":"f0eedf456c5d7ad966053ffd504ac62f650834e2d06587a5e08b100668f44bf8"}]}

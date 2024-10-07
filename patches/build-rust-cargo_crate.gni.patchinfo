@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"a5a173c52588495677b0ff3e0f4ed709cdacc8e20adc71de49bf3e22c71f0a65","appliesTo":[{"path":"build/rust/cargo_crate.gni","checksum":"ed89c7975820ae378a67c5ebc5b210498c0aa0265640fab9ba014edb109f2b0b"}]}

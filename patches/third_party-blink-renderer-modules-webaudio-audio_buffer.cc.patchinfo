@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"922835a64e5da5d7510cf4f6830bb5bb5e7b6a42499965355b8322d6b5ccbb59","appliesTo":[{"path":"third_party/blink/renderer/modules/webaudio/audio_buffer.cc","checksum":"b202eb3169d436564e22c9db1220a3448d13e4e9a308022851d00ce95e92e656"}]}

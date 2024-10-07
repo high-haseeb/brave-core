@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"95ab65e03a0bf72d8cdcbd15c71874483e99310b59cbcbb6319ad2855759c1fd","appliesTo":[{"path":"chrome/browser/browsing_data/chrome_browsing_data_remover_delegate.cc","checksum":"7a5d1af08b92ea0dbb77a3d50958e7daa2c020d5f5e1e590707629cc4cb431a1"}]}

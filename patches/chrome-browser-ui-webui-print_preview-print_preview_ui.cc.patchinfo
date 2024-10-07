@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"8138326128d848d8b14e5567372f69ed5e77122d479805f48a0459041926f132","appliesTo":[{"path":"chrome/browser/ui/webui/print_preview/print_preview_ui.cc","checksum":"94097bbe1c88fd783e3d9bb4c0494c0ee6daf43561fd8d9375311d0acb41c120"}]}

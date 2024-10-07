@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"6af3bc1b366e9f401b1f2ea1fd71062eaa05fc8886caf1b9a34fa93c4e0c2f47","appliesTo":[{"path":"components/sync/engine/sync_scheduler_impl.cc","checksum":"3e61295117bd8027f7a96a4e970527214f0b1465c84cc7de8d05f9c759601898"}]}

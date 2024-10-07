@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"3244b08336f62e9c122a52f606b366d4a4470dbc6a627c7f7ee44bfae0feaabe","appliesTo":[{"path":"chrome/browser/ui/views/page_info/page_info_view_factory.cc","checksum":"14a951f18c067451885dd88fb9458198f43e1f165a7eb5618c01025fa8f6577b"}]}

@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"bd93d8aa4b5d687a87f412021fbfc407e94502043f21a828291759c1e9099f1a","appliesTo":[{"path":"chrome/browser/external_protocol/external_protocol_handler.cc","checksum":"b52b51b58c5e9c8c7bd0f4d492ecfc990491565353fdac4a3cb1cff33fea2e81"}]}

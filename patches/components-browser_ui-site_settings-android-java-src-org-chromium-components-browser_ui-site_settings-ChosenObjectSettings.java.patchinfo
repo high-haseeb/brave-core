@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"4ce36ccd2db49b00c88a4930bb8108b34bedd70bec8cc99ce9134f2f96b4072b","appliesTo":[{"path":"components/browser_ui/site_settings/android/java/src/org/chromium/components/browser_ui/site_settings/ChosenObjectSettings.java","checksum":"bb22837e47d69a81e5fc161c39adac5aed7e44721ae8b16f00cb22182b430d90"}]}

@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"c84ceaf03c3190f100b0c922254fee1757f8924fe260e44dd6244dd3723d6aed","appliesTo":[{"path":"chrome/browser/ui/tabs/recent_tabs_sub_menu_model_unittest.cc","checksum":"c314d2af398e2d6a27f1c7f56aee0ca7543c005e97108dea129d069cda95c803"}]}

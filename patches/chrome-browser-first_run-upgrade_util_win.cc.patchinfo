@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"6e0c86b4e50803ca8cab96d356fd927095ef4827c8d7ada4962b5bf81202781d","appliesTo":[{"path":"chrome/browser/first_run/upgrade_util_win.cc","checksum":"277d34cbdea06aeef1e0c456b7777da158f383baddf62fb732d75a646b375174"}]}

@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"b73064b9443cda44db8ea6baa119950032bec3b01b42bff1410a6e759ea9a3c4","appliesTo":[{"path":"ui/native_theme/native_theme_win.cc","checksum":"c4ee8983a678573db0126784a7c9c18e64651a77514daed654c787196792d5ec"}]}

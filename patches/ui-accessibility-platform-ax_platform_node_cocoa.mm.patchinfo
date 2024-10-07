@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"d68e990fec8cc6ec6901cf9494d9ac2425663b40db33a05b1dd2a5583567083b","appliesTo":[{"path":"ui/accessibility/platform/ax_platform_node_cocoa.mm","checksum":"25f6f51775dddb0ad9ae532a58f9f0ba302610f79891b6920c02f02ec2476ce2"}]}

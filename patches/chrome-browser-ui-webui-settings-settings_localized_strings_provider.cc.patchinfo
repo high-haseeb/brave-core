@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"37174c5e1ff94d6efdb511346cf988b133d5ddd6d6cff39266cd02c1c8c563c9","appliesTo":[{"path":"chrome/browser/ui/webui/settings/settings_localized_strings_provider.cc","checksum":"66ee89bfd01a3f57d0a917996bf972e518ebcf52633382ed514b49660b4e0d7c"}]}

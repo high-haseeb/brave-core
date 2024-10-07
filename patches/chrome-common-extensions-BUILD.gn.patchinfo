@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"6b8253a2a499ba8fa4aa149c35984fbe4445f2eb3b0a3ad226adb462c15c8d7e","appliesTo":[{"path":"chrome/common/extensions/BUILD.gn","checksum":"cd8010685286af9fbaf4c8c4fd3571e7593fe6a3edec9f5268646835423c32c0"}]}

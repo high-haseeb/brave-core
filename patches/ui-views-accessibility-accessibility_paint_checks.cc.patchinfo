@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"59153152adddb74e5f4a1b1894cbcf0f5f9242de060b5de2d403430f08a4fac8","appliesTo":[{"path":"ui/views/accessibility/accessibility_paint_checks.cc","checksum":"d6c028eac5380dc7ddb60f13b139754697e7c2c0771c9b6a22d124249bc7cde2"}]}

@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"b276b6c24fbb5ae8b9f412ed6735e8d465b08546c95dcb9d592ecd3a282f8d1f","appliesTo":[{"path":"tools/json_schema_compiler/cc_generator.py","checksum":"228ac707dbe60897153e8c75e0cce1ca369aa4a51af9249bbd7978d67f1092da"}]}

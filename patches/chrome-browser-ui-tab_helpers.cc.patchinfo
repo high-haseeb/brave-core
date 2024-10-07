@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"810b75f6b98b1e1ab989929b27977a8083f89075ca408099ee238fea95bb7845","appliesTo":[{"path":"chrome/browser/ui/tab_helpers.cc","checksum":"f810c69524562041354fab414889d67dfdfa299bd01983080898cab0a73f6a7d"}]}

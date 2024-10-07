@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"84735a759e7df171d9c5a7975cdfcb52fc2f78d42bab0f992e3aa9d27140f75f","appliesTo":[{"path":"ios/chrome/browser/shared/model/prefs/browser_prefs.mm","checksum":"5a83219a1a5e313e841bf40f846966bd507ad4db209271fc3e3e122498ba29e9"}]}

@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"c7741da6eb1ea9ad2130a629b337e6aba2b999bac9f84481228c2f95a9ac3dc0","appliesTo":[{"path":"chrome/common/extensions/chrome_extensions_client.cc","checksum":"b8283ccce09ffe4378712d7e58122bacd0e4bfc2ad5534e388356352b474f6d8"}]}

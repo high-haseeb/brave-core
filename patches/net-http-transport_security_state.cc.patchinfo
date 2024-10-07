@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"1fba070f3fff0b4ca583cd4f799e1595c48f3765fb42528d3ce20dff457ae0fc","appliesTo":[{"path":"net/http/transport_security_state.cc","checksum":"1124c1edf7ad0391821b72af2d7c14440797d0c78eb730a8ebfa018678ba5c81"}]}

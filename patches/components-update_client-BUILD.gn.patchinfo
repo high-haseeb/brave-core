@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"dd423601e8d40ab298c5fdbd02d6ed3e3ae51247c07796d4c1cfa4696a15fbc9","appliesTo":[{"path":"components/update_client/BUILD.gn","checksum":"a90d905da0f14d5edfb923bc428ec1948018324187722c9b25ebeb429f09ea80"}]}

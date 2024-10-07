@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"0d7ac59de4395a0fbf31891c2cd4e7016fade1736361acd0d241a5db3fed40b5","appliesTo":[{"path":"third_party/blink/common/permissions/permission_utils.cc","checksum":"68cb50a93373e0f83b87c964e440502239f71be8dfcb9625744d17d3c5a46a79"}]}

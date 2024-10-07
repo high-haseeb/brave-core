@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"758ffd15919b1c43c3f67db22f44a61752817059e3ebcca70c262d66982ecd01","appliesTo":[{"path":"chrome/browser/ui/webui/chrome_web_ui_controller_factory.cc","checksum":"66d3f72e4ad1df782b390cee2e6c4c5cbb843dc86395ed1a323370b668b831e8"}]}

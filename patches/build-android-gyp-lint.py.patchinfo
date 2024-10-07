@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"3c4ff09552053c9c63f3edbfbf4d6a48b22bea282ce5a9a8060e3531a25f678c","appliesTo":[{"path":"build/android/gyp/lint.py","checksum":"5e43d3cd35ee6d9398cc340a33911cc5d5b953fa453609cffc245d04a7628b80"}]}

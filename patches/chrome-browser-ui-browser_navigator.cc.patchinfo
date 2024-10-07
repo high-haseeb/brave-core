@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"8fcbe07213df1dad60c65f3fcbefbe030c821990fda7b5d3afdc74ad33356d80","appliesTo":[{"path":"chrome/browser/ui/browser_navigator.cc","checksum":"bccd6a6f054eed9f292f031739e89f92c648170526eef2b41c96016b0a92ef94"}]}

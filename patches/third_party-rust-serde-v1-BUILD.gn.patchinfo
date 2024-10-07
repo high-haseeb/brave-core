@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"026a9d964a8a6ccf2a33d81afbf4fa6c747dc9d2364e153662e1529ce6e885c5","appliesTo":[{"path":"third_party/rust/serde/v1/BUILD.gn","checksum":"a1297ae1228114bee0a316d36fe566234a477f9d662f21b475b5d847c4b2bdfd"}]}

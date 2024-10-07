@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"b763f6a8cd80a5ae4de531052f1f7c171dcdc53d7c77a7184a7e544c23b88394","appliesTo":[{"path":"chrome/browser/extensions/api/developer_private/extension_info_generator.cc","checksum":"d2d38e80824fd4a16d35e0de38f2b2333ab5e2cf09537afaf7c9a5379042015c"}]}

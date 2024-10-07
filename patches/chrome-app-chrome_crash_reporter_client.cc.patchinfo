@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"39b657c84f036fb760fa85944a209b141e3cdfd920509d705b0824a490b149a8","appliesTo":[{"path":"chrome/app/chrome_crash_reporter_client.cc","checksum":"83157c89146ca5af36e17d0fcf6323aedf257fe8e5d35ef368b04abe424bb843"}]}

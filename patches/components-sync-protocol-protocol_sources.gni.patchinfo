@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"7499e8ccb6a83b6e9306a5654cd84f779a8df8406619f30ce963c107db891433","appliesTo":[{"path":"components/sync/protocol/protocol_sources.gni","checksum":"8e3143f5386ab965c97ea6df8e27ce3a9cc3ae46859d6f19c25d7abb12343bd5"}]}

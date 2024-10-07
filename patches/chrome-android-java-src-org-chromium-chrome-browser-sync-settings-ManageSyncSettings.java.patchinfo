@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"281e4a7bc53e27aee96340ade798c94b90b305ff578140b15f7b885e4d644487","appliesTo":[{"path":"chrome/android/java/src/org/chromium/chrome/browser/sync/settings/ManageSyncSettings.java","checksum":"13078c52749a22414b3f7adca971161d27f104beb5884a65bf99fbad7a13c8bc"}]}

@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"92472fce8c68c00b13d483a9aae9100375db0ec200b71ccb363b4126a16a373c","appliesTo":[{"path":"chrome/browser/ui/webui/extensions/extensions_ui.cc","checksum":"91b28c11cded00b3fd8e4e2a172aa4da06bea31d06dbbb05144797634704a6e4"}]}

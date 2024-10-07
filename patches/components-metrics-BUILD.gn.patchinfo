@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"a45339974d8f28201f984c5f7cd1ac7c77d3f81c6719dcb7cd13e8a8eb139b87","appliesTo":[{"path":"components/metrics/BUILD.gn","checksum":"2a2d5106ea8f723973f4ba6f2ed7aa937dd113a18bb237ecc4c54af5b1dc6ce3"}]}

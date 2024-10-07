@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"fb54f57941756da4250bb53d53d678dab9f008bf55b29fa81f9daa4d6d6ae0c5","appliesTo":[{"path":"components/os_crypt/sync/key_storage_linux.cc","checksum":"1735106dc4646b5aa491f1a336992e6195c2281e47760d84189b35ffa9792ae9"}]}

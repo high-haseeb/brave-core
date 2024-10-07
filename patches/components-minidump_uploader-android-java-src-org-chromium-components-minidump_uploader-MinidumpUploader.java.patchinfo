@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"65a5acf3eee57c4b312175f8b00beff8816266a594437cd1b526d44982b99cdb","appliesTo":[{"path":"components/minidump_uploader/android/java/src/org/chromium/components/minidump_uploader/MinidumpUploader.java","checksum":"1deb0be71659c484adf769beff7e3b063db5266e207838de144696d2e5b40358"}]}

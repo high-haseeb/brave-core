@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"95b8e556d709c12c5da4b2e40d887b858aeb1cae733d5d7ea2327e5023859000","appliesTo":[{"path":"chrome/android/feed/core/java/src/org/chromium/chrome/browser/feed/FeedSurfaceMediator.java","checksum":"ecab231ff61f8d25f8485bc269807d820f60627f8985ab1ab5f725bce888c490"}]}

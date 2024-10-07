@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"85c43f4633b1a4afda32563b7a5fc5c43e26aa05128fdec43da72628c0d275b7","appliesTo":[{"path":"net/dns/host_cache.cc","checksum":"ec366e4c64f1a97e71224897050ab68cd467e04855783f659afe3f47dea2a47f"}]}

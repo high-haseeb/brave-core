@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"ae9980e9a9f702646f807a48fbebf2ed8498fc91e6e0d9012375c41dc094c781","appliesTo":[{"path":"third_party/tflite/BUILD.gn","checksum":"86ec4bbc733bbd7a6cbb3ce548c0dcf3c45a83e0b5a900b7747b5199a4c2e67a"}]}

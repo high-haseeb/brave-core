@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"7b26947e7ba3f20f28f50f5944dcd03acdc727be03a39c07184c19af034a98dd","appliesTo":[{"path":"third_party/rust/aho_corasick/v1/BUILD.gn","checksum":"ef9d44ee109f8f7c76fc4fde2ebc9688ea8b1c65bc1c4fac7f7469c202b0f5f3"}]}

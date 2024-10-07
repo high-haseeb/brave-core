@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"6a7f7224f0a081ffbd2c654072d7b525ca82780d56bc5ef12339abc33da32c0f","appliesTo":[{"path":"build/android/gradle/generate_gradle.py","checksum":"8cd76876d839616d5c9adbee1cc08097add2b9d0cee8353363544b06ad4a593b"}]}

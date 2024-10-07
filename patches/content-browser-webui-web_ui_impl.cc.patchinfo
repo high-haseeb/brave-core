@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"7c836a48fe19a91474759292d2d87fa93220945c42da093cbc8fe6d6a77d0bc7","appliesTo":[{"path":"content/browser/webui/web_ui_impl.cc","checksum":"75911b88e920ea92c8f3eaf22e336f05561be768ec6721eeba6304edce1c9078"}]}

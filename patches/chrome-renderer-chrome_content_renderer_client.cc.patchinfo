@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"75f2e4f2c236878c839a0b45a88bcd165f8e3f783727ae205b6c3b32ca3d967f","appliesTo":[{"path":"chrome/renderer/chrome_content_renderer_client.cc","checksum":"44db623bd6a9ca66be5e8434ea4e32cbd0b29bfddd88c89120539e469b02a18b"}]}

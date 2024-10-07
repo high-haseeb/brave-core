@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"6a5e09b89392cfd19ffe7f7a6514e7796700a9609e5a23166ff05c41356c1347","appliesTo":[{"path":"chrome/browser/ui/webui/settings/people_handler.cc","checksum":"b12068c695722b2a4c7568d4712ac08e51cab8eff33eeb85fb44b2f81625c2fe"}]}

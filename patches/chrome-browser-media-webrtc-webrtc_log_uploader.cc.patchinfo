@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"c1ae9f9b08c0540e752cf46d1aceee1c9f9b15048e65ba01930ea2bb2af897bb","appliesTo":[{"path":"chrome/browser/media/webrtc/webrtc_log_uploader.cc","checksum":"9e51e89b870e8f18e4c28c8a90c5a8e94119a834b1a915dc862e56d2b5118214"}]}

@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"c6d29f5e108740f9c13de72207d7b6591bd8bfb7ccfc74db857e643a47ba17cd","appliesTo":[{"path":"chrome/browser/ui/android/appmenu/internal/java/src/org/chromium/chrome/browser/ui/appmenu/AppMenu.java","checksum":"e21ea759badbc723ffec26bdcde051df67661224a760ab632a8f9561d0f55ca6"}]}

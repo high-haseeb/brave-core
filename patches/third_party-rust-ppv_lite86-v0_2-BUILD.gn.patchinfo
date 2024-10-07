@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"3eeebeb86e5c7cd663131cd435af9aeca66c24c7462f66f36c7cb034631b31a9","appliesTo":[{"path":"third_party/rust/ppv_lite86/v0_2/BUILD.gn","checksum":"f7491305af9add6f9028614d67cd256b447ac33227f3a5640c5b664c7c07fa62"}]}

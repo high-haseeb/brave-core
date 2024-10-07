@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"1b6023b60f3818ac8c088d88321209e89705a9d581a3d698134b04ebce9cc296","appliesTo":[{"path":"front_end/core/sdk/NetworkManager.ts","checksum":"562d9fbf3b67a34945d34897b927e85dc3cae1ce702021d55b420553ec50df9d"}]}

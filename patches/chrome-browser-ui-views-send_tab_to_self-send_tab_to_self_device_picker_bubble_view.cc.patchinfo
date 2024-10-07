@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"3d92b2c40af8ff5e1c87f99ae4a51072eacff6256c6dd55d606c9c545a43e5f4","appliesTo":[{"path":"chrome/browser/ui/views/send_tab_to_self/send_tab_to_self_device_picker_bubble_view.cc","checksum":"7455a26886d900d017cc0733ad0195b5954c48432168c79b795152b4bba71a4b"}]}

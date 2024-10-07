@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"5c93ddd60434de6365f8cfc1ee08ee9df8cd2a3f0a0ee4a467b4ff5db9f4caa6","appliesTo":[{"path":"chrome/browser/importer/in_process_importer_bridge.cc","checksum":"6a100caa2395ab0a4f6b2d53f1ab013950c0f2d160f1733ff18ff0c2230b831c"}]}

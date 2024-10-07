@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"fc784c562a84d49a624ae1289f931262ccd21f87013c4928c8d3949adc1be2f4","appliesTo":[{"path":"chrome/browser/ui/views/profiles/profile_menu_view_base.cc","checksum":"2cbed277754ed0d176236b9373c7664190e82b59364bae908e62be577c2ce30f"}]}

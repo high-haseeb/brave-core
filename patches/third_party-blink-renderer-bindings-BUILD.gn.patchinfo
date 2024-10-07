@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"0bf833b55ad1c983dd54ef04040175bdcdc8d6ae95d58a9b9b43ef48283c830e","appliesTo":[{"path":"third_party/blink/renderer/bindings/BUILD.gn","checksum":"860b217816d56ed2697a1894c0f6dbd53a0109ffa80498c195517013e548cf4f"}]}

@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"e99cd85f3bfa5c2980339c8b293b55e27abe5b4f2a7ac4b3439a30532d6d0e1b","appliesTo":[{"path":"components/download/internal/background_service/proto_conversions.cc","checksum":"0b802b56ddff1fc56694e4c7a5f82021990f21249fbc0c20cedc27bd24e3caa1"}]}

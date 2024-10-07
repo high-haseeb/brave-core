@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"9df26788218944f10d776537a39d855e006f0f9cd90ebaedf37bcacec68e987f","appliesTo":[{"path":"mojo/public/tools/mojom/mojom_parser.py","checksum":"b57689bd180d4bf59534d24bdb2b030821624322cc8f71f72f4f27aa85cbd72f"}]}

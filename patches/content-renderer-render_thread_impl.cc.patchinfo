@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"880887d1d1a87a9dad53eb2077a74de73224f12e94f1be764641e2e02b2d4d76","appliesTo":[{"path":"content/renderer/render_thread_impl.cc","checksum":"fa88e813db306843ade1eb742fb53664361db9e81f01f814039bc02ae6941d30"}]}

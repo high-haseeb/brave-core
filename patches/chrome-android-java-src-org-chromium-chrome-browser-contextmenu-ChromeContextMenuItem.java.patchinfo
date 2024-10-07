@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"4978c66d186267396a3ac89cd55edf9f59db4d7d33ce25d66de69c2e0467a579","appliesTo":[{"path":"chrome/android/java/src/org/chromium/chrome/browser/contextmenu/ChromeContextMenuItem.java","checksum":"d2b1a9d9cc141e91f791030821495074753b784e7692aa3ea00b6a78930f97b2"}]}

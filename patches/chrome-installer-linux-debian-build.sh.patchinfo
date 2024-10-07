@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"b0dc3fb05a2b676ee475adb258149619cdfda1307d735dccc1d4769ad1a501df","appliesTo":[{"path":"chrome/installer/linux/debian/build.sh","checksum":"6d0613a34d628cade5a1ea5365f498f2b70fa820eaa2b5ff669b9adbdee97610"}]}

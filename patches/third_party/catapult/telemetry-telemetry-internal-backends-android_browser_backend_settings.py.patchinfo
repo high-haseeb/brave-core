@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"5f697b9381379cc55a16c6e3346689d4bf8c8f841f1e00e5e1523af9a0bf4d05","appliesTo":[{"path":"telemetry/telemetry/internal/backends/android_browser_backend_settings.py","checksum":"4513d051d8c67f41765d5f8b5edf4a62c64bb24d021e8e27c624d33f4b4a3337"}]}

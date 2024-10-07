@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"d5e6c187de7bd3876c45cf32d555c8c5496a63c65424acb91f6d14c466e299f6","appliesTo":[{"path":"components/download/internal/common/download_item_impl.cc","checksum":"dcc8c1816c8f8be04e14781c432a5f9e49c961280774a81f3790088655349266"}]}

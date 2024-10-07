@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"5701301143ed327b1fe967eb4308f36d1004f7dea61731e44483bfbee0095b54","appliesTo":[{"path":"extensions/browser/api/web_request/extension_web_request_event_router.cc","checksum":"e545c12fbd97ea87aec289c7feb649da0e231f09ca6522fe4caf716ef9bab7c4"}]}

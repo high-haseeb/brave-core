@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"260842f2627cfaf5e9d826428ecf20ab26ffb6eec97b01c17598cf560dbbfda4","appliesTo":[{"path":"chrome/browser/net/system_network_context_manager.cc","checksum":"9a9e73a61396853afec860d3df422580eeb61606d6749218fce46cf278e04bd4"}]}

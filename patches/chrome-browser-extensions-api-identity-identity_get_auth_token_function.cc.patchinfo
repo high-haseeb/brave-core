@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"a145ce4092129fd7f79e3151987864e6f69780fa791fde8845321a44d37fa188","appliesTo":[{"path":"chrome/browser/extensions/api/identity/identity_get_auth_token_function.cc","checksum":"69e47938991c2cff8e92346352d42f0695a032625e3fd34037459dd6bed21843"}]}

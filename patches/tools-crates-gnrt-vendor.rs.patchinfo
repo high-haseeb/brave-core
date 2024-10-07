@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"eb9da9ce5c6a36acf0651afb23086afbf1a3e16fb741fdb91291a0f144291e22","appliesTo":[{"path":"tools/crates/gnrt/vendor.rs","checksum":"5620152038f4528854e8dfdefe5a489da915088e42f8f38b483a049bc4e814dc"}]}

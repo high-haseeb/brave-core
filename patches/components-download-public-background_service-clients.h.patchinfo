@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"7de9cc2713952578ed78101bda561a868103dd18cb12b5b8bfb601416f77175f","appliesTo":[{"path":"components/download/public/background_service/clients.h","checksum":"708d04709656e5eeebe4d6f60ea372380161c2de23feec1afadcc20e2b7352c8"}]}

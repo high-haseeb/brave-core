@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"a672e64f7fbf6256c0c34b480fb0a6cd2b18b33f1496dcfd6c0d16fc645c87c2","appliesTo":[{"path":"chrome/browser/ui/android/toolbar/BUILD.gn","checksum":"28a12ce841fe2ef5ee17dfa057db4508782ac71827b3e1c02f3d225683ede52c"}]}

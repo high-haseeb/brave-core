@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"5f30a78112fe9d6798a87824b6b1e97a1b3ce1da1be37c72937666e73b96cbcd","appliesTo":[{"path":"chrome/browser/profile_resetter/brandcode_config_fetcher.cc","checksum":"ca14e394f4191fbe386cdc5288c23a970ceea22daf21455022d72e588e929448"}]}

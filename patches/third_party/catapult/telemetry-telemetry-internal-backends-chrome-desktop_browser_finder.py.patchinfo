@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"303245a2ed09f2836088682661f3391206ba00d02e6160271fdacab71b55f359","appliesTo":[{"path":"telemetry/telemetry/internal/backends/chrome/desktop_browser_finder.py","checksum":"c8f581d5fc55bbce492af2c48218f2843b05103023c1dd6338e30037fecfd560"}]}

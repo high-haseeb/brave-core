@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"80ae22ace32e365b49b1aae56c45354adad155fe553661f0df2babceecf24dc7","appliesTo":[{"path":"build/rust/rust_target.gni","checksum":"e14fc65056e39329b96e38c4393f8b2e38b7f2044a49ff2dfe994c5a7d57e5b3"}]}

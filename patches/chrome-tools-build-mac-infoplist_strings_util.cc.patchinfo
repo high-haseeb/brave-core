@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"87f6c95c19a01d043e2733de9f1aaeb8b2d8959c415fafa904d6dae2b0eb05e2","appliesTo":[{"path":"chrome/tools/build/mac/infoplist_strings_util.cc","checksum":"d3ade9daea21615469d81c4b2576dcd2ecfed2862799756a29713b250ab0d68a"}]}

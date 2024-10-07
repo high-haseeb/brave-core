@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"431c5dc7d5d84b5572c6ee4faa4cb3260dcbff87e5c280b66bcbfd423f9496ef","appliesTo":[{"path":"content/browser/renderer_host/clipboard_host_impl.cc","checksum":"ea262b998815f123ab4bfc3ca3fbb38d019adfc4296a553df2aa1e39925c41f0"}]}

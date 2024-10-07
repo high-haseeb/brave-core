@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"8cf16cba72e634311ae9ddcf65641010908726d7e6c28c67e94e79c75bdaa1c4","appliesTo":[{"path":"chrome/browser/renderer_context_menu/render_view_context_menu.cc","checksum":"f8a140ec67bcb9d61d9f18e85a51301f9944190ff514dda8d50e49c0a42a159a"}]}

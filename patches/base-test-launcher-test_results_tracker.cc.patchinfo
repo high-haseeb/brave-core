@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"ca8a757be47ba7223bc75b0a30fcfd3494cd0e6540fd201bf04d989dfab93fb4","appliesTo":[{"path":"base/test/launcher/test_results_tracker.cc","checksum":"ea0ea3bede683fc21a3676a8e14bde0e566769c0eaaf0d6b9308406f61f69b60"}]}

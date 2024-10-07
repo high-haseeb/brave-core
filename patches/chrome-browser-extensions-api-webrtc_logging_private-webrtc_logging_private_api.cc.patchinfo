@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"651c4f51cb1b8f352e84b30eb9fb06d64e0472569ad184dbc277c7837cd89e43","appliesTo":[{"path":"chrome/browser/extensions/api/webrtc_logging_private/webrtc_logging_private_api.cc","checksum":"6ba15d245dd8f52c4e5e38db2e24e59d3377b12a455fb37906ae7d3a7ffb29d5"}]}

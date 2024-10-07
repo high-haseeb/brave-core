@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"a35836170b8c7fcc7009cf582c78f2c7c4256be08fc8e7ca3790191f8be7b37b","appliesTo":[{"path":"build/android/gyp/proguard.py","checksum":"12fa45cd3394f895a08beb0c9d118855443b614051914ff6d07c982076b7809d"}]}

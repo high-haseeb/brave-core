@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"aff2c11bd5b28ae317eda62c67a3f9e5ad188ec37ac84fe84131723ce23a8bf4","appliesTo":[{"path":"ios/chrome/browser/flags/BUILD.gn","checksum":"4fba608d65ab2e6058ec4a1e06eeac0218cc1b0cdaf0cd2e689a456279970ed1"}]}

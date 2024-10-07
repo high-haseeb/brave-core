@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"12be23028bf2e18501810e4da6cb08d0cee34766cdbe3c9d937bf5637ae7192e","appliesTo":[{"path":"third_party/rust/log/v0_4/BUILD.gn","checksum":"d4fa422f4420bae65c9a05169da7fde5b994400ca5f426ab45a0bc7a17d4ea90"}]}

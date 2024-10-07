@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"53c14c92b5c42cd4c103d42d02bcbbf11cdb2b04540969097e6b30e90bd2ff59","appliesTo":[{"path":"components/sync_device_info/device_info_sync_bridge.cc","checksum":"2c209bfa1633c8153ff8f245c0e6c773902965d9ee60ad7a49656f7d2278824b"}]}

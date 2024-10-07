@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"6c40ddfcd247c806c70ef39f44a7fa5c334582a7b375be0d6995162b7852b970","appliesTo":[{"path":"components/omnibox/browser/autocomplete_controller.cc","checksum":"40d9324270e2e450726e18cdc41fbbb9a86066fd4d438ae7df7fdad8fc1adf81"}]}

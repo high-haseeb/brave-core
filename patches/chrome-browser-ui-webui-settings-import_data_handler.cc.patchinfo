@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"35ed575f98dc7d12729818b29c98648362bc710b291cbd1ac14358cf3b1fd6d6","appliesTo":[{"path":"chrome/browser/ui/webui/settings/import_data_handler.cc","checksum":"a3c1e8162696bcefb7888d052ef3359c4dba0346029998f2cab3680e832eb275"}]}

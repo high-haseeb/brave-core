@@ -1,0 +1,1 @@
+{"schemaVersion":1,"patchChecksum":"5a4f962c397f031c981bf607bc49946bc22033032c3320db2a8bc35abb506484","appliesTo":[{"path":"chrome/tools/build/win/create_installer_archive.py","checksum":"18a4d9b31eb67d10a1b3b028743660e255ce8a25e6f7e75adbffde56aaae2c12"}]}
